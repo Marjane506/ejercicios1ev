@@ -6,7 +6,7 @@ public class ParImpar {
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		System.out.print("¿Par o Impar?");
+		System.out.print("¡introduce un número y te diré si es Par o Impar!");
 		
 		int num = in.nextInt();
 		

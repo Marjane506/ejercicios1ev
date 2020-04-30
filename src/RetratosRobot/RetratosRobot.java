@@ -8,10 +8,10 @@ public class RetratosRobot {
 			public static void main(String[] args) {
 				
 				String [][] rasgos = {
-						{"el pelo", "WWWWWWWWW", "\\\\\\//////", "|\"\"\"\"\"\"\"|", "|||||||||"},
+						{"el pelo",  "WWWWWWWWW", "\\\\\\//////", "|\"\"\"\"\"\"\"|", "|||||||||"},
 						{"los ojos", "| O   O |", "|-(· ·)-|", "|-(o o)-|", "| \\   / |"},
 						{"la nariz", "@   J   @", "{   \"   }", "[   j   ]", "<   -   >"},
-						{"la boca", "|  ===  |", "|   -   |", "|  ___  |", "|  ---  |"},
+						{"la boca",  "|  ===  |", "|   -   |", "|  ___  |", "|  ---  |"},
 						{"la barbilla", "\\_______/", "\\,,,,,,,/"}
 				};
 				
